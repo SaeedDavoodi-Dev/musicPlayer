@@ -1,4 +1,4 @@
-# 🎯 Music Player
+# 🎯 🎵 Music Player
 
 <img width="1338" height="600" alt="Image" src="https://github.com/user-attachments/assets/d5ea56b6-165d-4c98-a3b3-646c70d18ca6" />
 
