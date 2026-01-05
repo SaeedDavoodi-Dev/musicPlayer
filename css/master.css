@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@layer utilities {
+    .ref{
+        -webkit-box-reflect: below -1px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));border-radius: 8px;
+    }
+    .transR{
+        transform: perspective(900px) translateZ(-60px) rotateY(-30deg);
+    }
+    .transL{
+        transform: perspective(900px) translateZ(-60px) rotateY(30deg);
+    }
+    ._bg{
+        background-image: linear-gradient(to bottom, #0d0813, #160c1d);
+    }
+}
+
+
+@font-face {
+    font-family: Nunito;
+    src: url(../font/Nunito-VariableFont_wght.ttf);
+}
+@layer base {
+    body {
+        font-family: Nunito;
+    }
+}
