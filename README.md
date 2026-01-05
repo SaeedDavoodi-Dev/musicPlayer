@@ -15,7 +15,7 @@ A responsive game built with **JavaScript** that works seamlessly on mobile, tab
   
 ---
   
-- [Live Demo](https://saeeddavoodi-dev.github.io/Memory-game/) <br>
+- [Live Demo](https://saeeddavoodi-dev.github.io/musicPlayer/) <br>
   👆👆👆
     
   
