@@ -1,6 +1,6 @@
 # 🎯 Music Player
 
-<img width="1335" height="598" alt="Image" src="https://github.com/user-attachments/assets/50725ff7-1877-403c-b9fc-2b9cd63c2fa8" />
+<img width="1338" height="600" alt="Image" src="https://github.com/user-attachments/assets/d5ea56b6-165d-4c98-a3b3-646c70d18ca6" />
 
   
 ## 📖 Description : 
