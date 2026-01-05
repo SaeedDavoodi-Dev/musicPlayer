@@ -4,14 +4,19 @@
 
   
 ## 📖 Description : 
-A responsive game built with **JavaScript** that works seamlessly on mobile, tablet, and desktop devices.
+A responsive music player built with vanilla JavaScript, HTML5, and CSS3. This project demonstrates advanced front-end development skills DOM manipulation, and modern UI/UX design principles.
 
 
 ## :sparkles: Features
 
-- Built with pure JavaScript (no frameworks)
-- Fully responsive design
-- Interactive gameplay
+- Clean, modern, and responsive design
+- Play, pause, skip (next/previous) tracks
+- Playback progress bar with real-time tracking
+- Visual feedback for active states
+- Animated transitions and hover effects
+
+
+
   
 ---
   
